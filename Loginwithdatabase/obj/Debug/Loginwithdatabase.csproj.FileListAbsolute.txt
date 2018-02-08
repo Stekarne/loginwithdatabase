@@ -1,0 +1,15 @@
+c:\users\stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\bin\Debug\Loginwithdatabase.exe.config
+c:\users\stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\bin\Debug\Loginwithdatabase.exe
+c:\users\stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\bin\Debug\Loginwithdatabase.pdb
+c:\users\stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.csprojResolveAssemblyReference.cache
+c:\users\stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.Form1.resources
+c:\users\stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.Properties.Resources.resources
+c:\users\stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.csproj.GenerateResource.Cache
+c:\users\stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.exe
+c:\users\stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.pdb
+C:\Users\Stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.Form2.resources
+C:\Users\Stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.Form3.resources
+C:\Users\Stekdasen\Documents\Visual Studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.Forms.Form4.resources
+C:\Users\Stekdasen\Documents\Visual Studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.Forms.UserControl1.resources
+C:\Users\Stekdasen\Documents\Visual Studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.Forms.UserControl2.resources
+C:\Users\Stekdasen\documents\visual studio 2015\Projects\Loginwithdatabase\Loginwithdatabase\obj\Debug\Loginwithdatabase.Forms.Adminform.resources
