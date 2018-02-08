@@ -46,8 +46,8 @@ namespace Loginwithdatabase.Classes
             {
                 MessageBox.Show("Inloggning lyckades!");
                 Forms.Form4 form4 = new Forms.Form4();
-                Form1 form1 = new Form1();
-                form1.Hide();
+                //Form1 form1 = new Form1();
+                //form1.Hide();
                 form4.Show();
             }
             else
