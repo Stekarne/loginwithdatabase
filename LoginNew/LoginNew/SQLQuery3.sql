@@ -1,0 +1,30 @@
+﻿USE [C:\USERS\AYSEN\DESKTOP\SOURCE\REPOS\LOGINNEW\LOGINNEW\TESTLOGIN.MDF]
+
+GO
+
+
+SET ANSI_NULLS ON
+
+GO
+
+SET QUOTED_IDENTIFIER ON
+
+GO
+
+create PROC [dbo].[ContactViewAllOrSearch]
+
+@textBox3 VARCHAR(50)
+
+AS BEGIN
+
+SELECT *
+
+FROM login
+
+WHERE @textBox3='' OR
+
+       NAME LIKE '%'+@textBox3+'%'
+
+ 
+
+END
